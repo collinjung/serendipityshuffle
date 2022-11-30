@@ -1,0 +1,51 @@
+﻿index,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre,played
+1,71ehTADpxs85ULrZgSEKCy,A Fine Frenzy,One Cell In The Sea,Almost Lover,57,268800,FALSE,0.549,0.24,0,-7.778,1,0.0338,0.947,0,0.106,0.167,119.58,4,acoustic,20
+2,2SkJKMfjpYsNv0KWOxiegX,A Great Big World,When the Morning Comes,Kaleidoscope,62,229320,FALSE,0.709,0.913,7,-5.148,1,0.0748,0.0182,0,0.167,0.519,108.024,4,acoustic,91
+3,7xLhousIHDxoGgeJNhO4Ye,A Great Big World,Is There Anybody Out There? - Track by Track Commentary,Say Something,57,233266,FALSE,0.447,0.158,2,-7.571,1,0.036,0.872,1.58E-06,0.0816,0.142,140.942,3,acoustic,100
+4,6kRZfOZSuoi0Htg6gROKDz,A Great Big World,æµæ˜ŸèŠ±åœ’éŸ³æ¨‚å°ˆè¼¯,Say Something,40,229573,FALSE,0.456,0.101,2,-11.75,1,0.038,0.876,1.74E-06,0.0776,0.155,139.896,3,acoustic,93
+5,2fPb58e6f8KxejYDCaARwS,A Great Big World,Is There Anybody Out There?,Say Something,57,233266,FALSE,0.447,0.158,2,-7.571,1,0.036,0.872,1.58E-06,0.0816,0.142,140.942,3,acoustic,99
+6,71vcffc4Yfz0pt9AbaL386,A Great Big World,Is There Anybody Out There? - Track by Track Commentary,I Don't Wanna Love Somebody Else,49,163960,FALSE,0.495,0.22,5,-11.16,1,0.0355,0.847,1.40E-06,0.0957,0.345,126.618,4,acoustic,99
+7,1o0yFkUycTAWIIWFOlhDcV,A Great Big World,You,You,49,218133,FALSE,0.505,0.31,5,-10.423,1,0.03,0.885,0.00359,0.0996,0.34,82.591,4,acoustic,50
+8,0jJqIi0uMG8IhGlLx7U85J,A Great Big World,Is There Anybody Out There? - Track by Track Commentary,Already Home,44,230186,FALSE,0.602,0.404,2,-7.344,1,0.0272,0.31,0,0.14,0.243,83.054,4,acoustic,40
+9,6Vc5wAMmXdKIAM7WUoEb7N,A Great Big World;Christina Aguilera,Is There Anybody Out There?,Say Something,74,229400,FALSE,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89E-06,0.0913,0.0765,141.284,3,acoustic,100
+10,5TvE3pk05pyFIGdSY9j4DJ,A Great Big World;Christina Aguilera,Is There Anybody Out There? - Track by Track Commentary,Say Something,70,229400,FALSE,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89E-06,0.0913,0.0765,141.284,3,acoustic,98
+11,78TKtlSLWK8pZAKKW3MyQL,A Great Big World;Christina Aguilera,Say Something,Say Something,58,229400,FALSE,0.453,0.146,2,-8.976,1,0.0343,0.867,3.49E-06,0.0945,0.0915,137.905,3,acoustic,98
+12,7oyFihJppZYPP7o0NfoHnZ,A Great Big World;Christina Aguilera,Particles,Fall on Me,50,262820,FALSE,0.393,0.268,9,-6.741,1,0.0385,0.697,0,0.11,0.225,110.456,4,acoustic,94
+13,1qHiDbTJI7GB62W3BBFigx,A Great Big World;Futuristic,When the Morning Comes,Hold Each Other (feat. Futuristic),47,216040,FALSE,0.61,0.796,10,-5.431,1,0.0656,0.0365,0,0.274,0.51,159.944,4,acoustic,96
+14,6VwAh8Z1d5YKoSWoEaV4db,Aaron Espe,Making All Things New,Making All Things New,65,159600,FALSE,0.787,0.355,0,-11.429,1,0.0288,0.896,0.0201,0.111,0.48,99.978,4,acoustic,45
+15,6QXolVfFVjUHPp5TVzsjIF,Aaron Espe,Only Time,Only Time,56,178546,FALSE,0.696,0.261,9,-12.107,0,0.0361,0.737,1.24E-05,0.11,0.361,136.053,3,acoustic,52
+16,0dLh6jkNSm0HnmEdjXghIA,Aberola,Si Te Vas,Si Te Vas,26,216584,FALSE,0.483,0.219,0,-13.27,1,0.0482,0.972,0,0.116,0.641,149.581,4,acoustic,64
+17,69yz6UcfUHCi795treLj3l,Acoustic Guitar Collective,"Golden Covers, Vol. 2",Perfect,39,192397,FALSE,0.559,0.118,7,-16.34,1,0.0421,0.979,0.935,0.109,0.289,97.1,4,acoustic,45
+18,5oDDFjWMz0KiMmRzWSFfQ6,AcousticTrench,Paradise,Paradise,42,170125,FALSE,0.507,0.191,5,-16.342,1,0.0408,0.99,0.933,0.108,0.221,132.131,4,acoustic,45
+19,2sYFi9xVSZ56WHKSY2fN1K,Adam Christopher,So Far Away (Acoustic),So Far Away - Acoustic,52,171543,FALSE,0.576,0.331,6,-9.389,0,0.0306,0.894,3.44E-05,0.129,0.407,149.02,4,acoustic,50
+20,0fUB9bwvKLRpOB18YZHz5N,Adam Christopher,Iris (Acoustic),Iris - Acoustic,54,184200,FALSE,0.589,0.249,2,-10.086,1,0.0329,0.717,0,0.106,0.363,150.096,3,acoustic,70
+21,1tPYm2PqXjYL6lM0AfH5aT,Adam Christopher,Boulevard of Broken Dreams (Acoustic),Boulevard of Broken Dreams (Acoustic),41,207400,FALSE,0.586,0.149,5,-13.369,1,0.0348,0.881,0,0.187,0.341,75.121,4,acoustic,34
+22,1ChZ4mrSLP8HImCY6IyImf,Adam Christopher,Peaches (Acoustic),Peaches - Acoustic,55,190909,TRUE,0.675,0.243,0,-13.392,1,0.0413,0.797,0,0.214,0.707,142.87,4,acoustic,59
+23,1fxIiBHyhR3AhYJBHBZTiq,Adam Christopher,THATS WHAT I WANT (Acoustic),THATS WHAT I WANT (Acoustic),35,172857,TRUE,0.759,0.275,0,-10.707,1,0.0626,0.81,0,0.177,0.457,73.553,4,acoustic,56
+24,1NKiIuSbv88ecRlB6noXzz,Adam Christopher,Mood (Acoustic),Mood - Acoustic,50,161000,TRUE,0.751,0.29,10,-8.17,1,0.0456,0.846,0,0.113,0.683,75.034,4,acoustic,32
+25,5ctBsVOClsptyjkQkBLBn4,Adam Christopher;Dan Berk,"10,000 Hours (Acoustic)","10,000 Hours - Acoustic",53,169058,FALSE,0.522,0.382,10,-6.765,1,0.031,0.389,0,0.133,0.519,169.861,4,acoustic,52
+26,7Ca2CkwSqHyr3eCh8IRdjz,AgustÃ­n AmigÃ³;Nylonwings,Mujer con Abanico,Mujer con Abanico,41,156787,FALSE,0.769,0.135,5,-12.049,0,0.061,0.986,0.905,0.106,0.471,103.939,4,acoustic,53
+27,5mdjfBsyzl78NQI4sI4IzR,Aidan Hawken,Walking Blind (feat. Carina Round),Walking Blind,48,201440,FALSE,0.374,0.183,9,-13.225,1,0.0281,0.897,0.0387,0.109,0.134,82.042,4,acoustic,45
+28,5NqGfELjcdvRIUuhgZJ34W,Aimyon,Momentary Sixth Sense,Marigold,50,306626,FALSE,0.545,0.745,2,-3.098,1,0.0286,0.0452,0,0.0907,0.413,106.094,4,acoustic,41
+29,2cTaSKEc8OZdF6Tpg2QQsS,Aimyon,Heard that there's good pasta,Naked Heart,47,296653,FALSE,0.559,0.448,8,-4.11,1,0.0275,0.537,1.85E-05,0.0915,0.354,148.02,4,acoustic,53
+30,0N8Xztr4pBHJ7V0moJWhbO,Aimyon,é’æ˜¥ã®ã‚¨ã‚­ã‚µã‚¤ãƒˆãƒ¡ãƒ³ãƒˆ,æ„›ã‚’ä¼ãˆãŸã„ã ã¨ã‹,65,235240,FALSE,0.673,0.85,2,-5.021,1,0.0337,0.0345,1.14E-05,0.0943,0.793,100.008,4,acoustic,60
+31,2mHWjrN4rIL8vbWt0Od9Ux,Aimyon,Falling into your eyes Record,3636,44,251720,FALSE,0.579,0.612,10,-5.088,1,0.0266,0.702,0.00195,0.254,0.623,155.921,4,acoustic,39
+32,59eluCMn0XbOWqeWQ91FTM,Aimyon,é’æ˜¥ã®ã‚¨ã‚­ã‚µã‚¤ãƒˆãƒ¡ãƒ³ãƒˆ,å›ã¯ãƒ­ãƒƒã‚¯ã‚’è´ã‹ãªã„,64,246306,FALSE,0.524,0.687,7,-4.039,1,0.0267,0.00135,0,0.169,0.619,99.919,4,acoustic,48
+33,6fmrddhzAr0StNzWEzlny5,AJJ,Christmas Island,Linda Ronstadt,31,180771,FALSE,0.448,0.516,0,-7.449,1,0.0292,0.341,0.00497,0.0929,0.29,100.672,4,acoustic,52
+34,3NigHcNkAIUpS1cNbiqNl8,AJJ,Christmas Island,Angel of Death,28,174709,FALSE,0.645,0.626,7,-7.551,1,0.0364,0.259,0.00887,0.115,0.307,118.585,4,acoustic,80
+35,1o95Vc19sHgVwk20YwNPvR,AJJ,Only God Can Judge Me and More,Unicron,28,73066,TRUE,0.495,0.531,0,-6.372,1,0.0582,0.696,0,0.165,0.827,155.227,4,acoustic,62
+36,4psC6LXiY2vMsYAuYETR1C,AJJ,Only God Can Judge Me and More,Darkest Heart,28,122600,TRUE,0.463,0.656,0,-3.078,1,0.0468,0.0845,0.00224,0.16,0.798,176.907,4,acoustic,62
+37,1wMG2dMCgh1Bn6d0XkOnHo,AJJ,The Bible 2,White Worms,27,163385,FALSE,0.336,0.761,9,-6.312,1,0.0399,0.000546,0.00284,0.113,0.501,127.065,4,acoustic,72
+38,3D1PuFi2U8lmtdWRZcCz1f,AJJ,Good Luck Everybody,Body Terror Song,58,157600,FALSE,0.507,0.399,9,-10.917,0,0.0358,0.871,0.000377,0.113,0.225,115.588,4,acoustic,67
+39,5kTmg9n7FZ7xv8SZVFhX8P,AJJ,Only God Can Judge Me and More,I Am So Mad at You,27,104306,TRUE,0.682,0.666,0,-4.823,1,0.0381,0.0602,7.99E-05,0.208,0.79,93.992,4,acoustic,66
+40,25R9Ax7cdjWx0EDr2HAKoA,AJJ,Christmas Island,Deathlessness,27,220832,FALSE,0.554,0.655,11,-8.074,1,0.0388,0.00193,0.56,0.28,0.363,100.423,4,acoustic,60
+41,6kucNn22HB0qb2ZPa1BrNl,Albert Collins,Ice Pickin',"Cold, Cold Feeling",54,318840,FALSE,0.713,0.281,3,-11.057,0,0.0379,0.137,0.0258,0.111,0.397,148.301,3,acoustic,80
+42,6OCsvPU6P84wJ0erggCRv4,Albert King,pov: you have a holly jolly christmas,Christmas Comes But Once A Year,0,272640,FALSE,0.687,0.494,1,-9.421,1,0.0505,0.324,5.50E-05,0.0867,0.621,93.269,1,acoustic,75
+43,7qJtNgmUyzy3R86vJwk9Wp,Albert King,pov: you rock around the christmas tree,Christmas Comes But Once A Year,0,272640,FALSE,0.687,0.494,1,-9.421,1,0.0505,0.324,5.50E-05,0.0867,0.621,93.269,1,acoustic,86
+44,3ocm1Cf1Dk1ODrdBdybh82,Albert King,Born Under A Bad Sign (Mono),Born Under A Bad Sign - Mono Mix,58,169997,FALSE,0.711,0.483,11,-11.211,1,0.0298,0.434,0.012,0.0284,0.884,91.652,4,acoustic,78
+45,4T8FoNHY3UZSYgOV76ueVU,Allman Brown,1000 Years,Ancient Light,41,244900,FALSE,0.435,0.208,1,-15.75,0,0.0558,0.647,0.000921,0.147,0.189,69.027,4,acoustic,87
+46,4XBcShO4h4X55x9yMmyKHL,Allman Brown,1000 Years,Sweetest Thing,54,218502,FALSE,0.546,0.411,2,-9.308,1,0.0475,0.701,9.73E-05,0.0955,0.528,79.785,4,acoustic,80
+47,0Kt5AHOpQAkEsHAuPeB0le,Allman Brown;Liz Lawrence,1000 Years,Sons and Daughters,50,216052,FALSE,0.525,0.461,5,-9.489,0,0.0878,0.775,2.14E-06,0.362,0.202,147.997,4,acoustic,80
+48,6xXvAzowcCQmoKdDr1oIFJ,Amber Leigh Irish,Simply Acoustic,2002 - Acoustic,57,145056,FALSE,0.589,0.296,0,-9.335,1,0.083,0.842,0,0.0736,0.611,165.799,3,acoustic,85
+49,5LuSu8fS8PGCH88EDPLYcy,Amber Leigh Irish,Save Your Tears (Acoustic),Save Your Tears - Acoustic,49,177818,FALSE,0.693,0.111,0,-12.356,1,0.0379,0.937,1.47E-06,0.0858,0.247,110.813,4,acoustic,70
+50,39dhIbeOy13KQlVlLM0m8G,Amber Leigh Irish,As It Was (Acoustic),As It Was - Acoustic,51,144644,FALSE,0.595,0.0477,11,-14.672,1,0.0662,0.923,0,0.0909,0.513,118.162,3,acoustic,74

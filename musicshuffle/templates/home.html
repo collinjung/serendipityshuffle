@@ -1,0 +1,9 @@
+<form action ="{{ url_for("choose_playlist")}}" method="post">
+<h1> Which playlist would you like to shuffle? </h1>
+<select name="playlist" method="GET" action="/">
+  <option value="{{playlists[0]}}" selected>{{playlists[0]}}</option>
+  {% for p in playlists[1:] %}
+    <option value="{{p}}">{{p}}</option>
+  {% endfor %}
+</select>
+<button type="submit">Select</button>
