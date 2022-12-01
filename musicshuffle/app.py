@@ -12,7 +12,7 @@ import random
 # App config
 app = Flask(__name__)
 
-app.secret_key = 'ahfkEjkfd93F'
+app.secret_key = os.getenv("APP_KEY", "")
 app.config['SESSION_COOKIE_NAME'] = 'spotify-login-session'
 TOKEN_INFO = "token_info"
 
