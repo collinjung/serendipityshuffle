@@ -2,7 +2,7 @@
 <h1>Calibrating preferences</h1>
 <h1>Out of 100%, how much of each song would you normally listen to?</h1>
 {% for song in select_songs %}
-  {{ song }}<select name = "test" method="GET" action="/">
+  {{ song[0] }} by {{ song[1] }} <select name = "results" method="GET" action="/">
     <option value="1">0 - 20</option>
     <option value="2">21 - 40</option>
     <option value="3">41 - 60</option>

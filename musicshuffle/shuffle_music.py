@@ -37,27 +37,34 @@ def read_playlist(playlist_id):
 
 
 def p_like_artist(artist, played_data):
-    avg_played = 0
+    count_like = 0
+    count_dislike = 0
     count = 0
     for song in played_data.values():
         if artist[0] in song["artist"]:
-            avg_played += song["played"]
+            if song["played"] > 50:
+                count_like += 1
+            else:
+                count_dislike += 1
             count += 1
     if count == 0:
         return 0
-    return round(avg_played / (count * 100), 2)
+    return round(count_like / (count_like + count_dislike), 2)
 
 
 def p_like_tempo(tempo, played_data):
-    avg_played = 0
+    count_like = 0
+    count_dislike = 0
     count = 0
     for song in played_data.values():
         if song["tempo"] == tempo:
-            avg_played += song["played"]
-            count += 1
+            if song["played"] > 50:
+                count_like += 1
+            else:
+                count_dislike += 1
     if count == 0:
         return 0
-    return round(avg_played / (count * 100), 2)
+    return round(count_like / (count_like + count_dislike), 2)
 
 
 def shuffle_music(playlist_id, played_music):
@@ -67,7 +74,7 @@ def shuffle_music(playlist_id, played_music):
     for name, song in new_p.items():
         art = p_like_artist(song["artist"], played_music)
         temp = p_like_tempo(song["tempo"], played_music)
-        ls.append([name, (art * 0.60 + temp * 0.40)])
+        ls.append([name, (art * 0.65 + temp * 0.35)])
     ls = [elem[0] for elem in sorted(ls, key=lambda x: x[1])]
 
     sorted_d = {}
@@ -81,7 +88,7 @@ def shuffle_music(playlist_id, played_music):
 
     for i in range(len(sorted_ls)):
         n = len(sorted_ls[i])
-        tail_i = n - (n // 3)
+        tail_i = n - (n // 4)
         for j in range(tail_i, n):
             num = random.randint(1, tail_i - 1)
             sorted_ls[i][j], sorted_ls[i][num] = sorted_ls[i][num], sorted_ls[i][j]

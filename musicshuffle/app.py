@@ -5,6 +5,7 @@ from spotipy.oauth2 import SpotifyOAuth
 from flask import *
 from musicshuffle import shuffle_music
 import time
+import os
 import random
 
 
@@ -65,11 +66,12 @@ def calibrate():
     titles = list(tracks)
     n = 8 if len(titles) > 8 else len(titles)
     select_songs = random.sample(titles, n)
+    zipped = list(zip(select_songs, [tracks[song]["artist"] for song in select_songs]))
     if request.method == "POST":
-        values = request.form.getlist("test")
+        values = request.form.getlist("results")
         session["weights"] = list(zip(select_songs, values))
         return redirect("/shuffleTracks")
-    return render_template("calibrate.html", select_songs=select_songs)
+    return render_template("calibrate.html", select_songs=zipped)
 
 
 @app.route("/shuffleTracks", methods=["GET", "POST"])
@@ -131,8 +133,8 @@ def get_token():
 
 def create_spotify_oauth():
     return SpotifyOAuth(
-        client_id="fae2d9d7e5f34629b24ec27f02146dab",
-        client_secret="8aa1ddddcbb244ea9756d8384d3060e5",
+        client_id=os.getenv("CLIENT_ID", ""),
+        client_secret=os.getenv("CLIENT_SECRET", ""),
         redirect_uri=url_for('authorize', _external=True),
         scope="user-library-read")
 
