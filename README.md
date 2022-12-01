@@ -1,2 +1,2 @@
-# serendipityshuffle
-Serendipity Shuffle for CS109 Challenge
+# Serendipity Shuffle
+Serendipity Shuffling algorithm for CS109 Challenge
